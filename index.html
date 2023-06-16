@@ -6,7 +6,11 @@
     <title>Document</title>
 </head>
 <body>
-    <div id="app"></div>
+    <div id="app">
+        <ul>
+            <li v-for="email in arrayEmail">{{email}}</li>
+        </ul>
+    </div>
 
 
 <script src='https://unpkg.com/vue@3/dist/vue.global.js'></script>
