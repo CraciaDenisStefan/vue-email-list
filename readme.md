@@ -3,3 +3,7 @@ problema:Attraverso l'apposita API di Boolean https://flynn.boolean.careers/exer
 2 - Creiamo nel html nei methods una funzione dove cicliamo da 0 a 10 la nostra api che crea 10 email random
 3 - Pushamo in un arrai le 10 email random
 4 - Nel mounted chiamiamo la nostra funzione in modo da farla partire al apertura della pagina  
+
+Bonus
+Far comparire gli indirizzi email solamente quando sono stati tutti generati.
+1 - Facciamo una condizione dove li diciamo che solo quando la lunghezza del array è uguale a 10 
